@@ -1,0 +1,16 @@
+Time,Sensor,Message
+2025-11-15 11:41:35,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 11:42:00,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 11:43:46,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 12:06:04,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 12:06:05,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 12:06:06,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:39:25,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:39:26,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:43:51,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:47:46,Temperature,Temperature Alert: TEMP_ALERT: Temp=32.10
+2025-11-15 13:48:04,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:53:59,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:54:01,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:57:07,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-15 13:58:20,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
