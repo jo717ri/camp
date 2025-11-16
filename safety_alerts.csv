@@ -45,3 +45,4 @@ Time,Sensor,Message
 2025-11-15 20:37:20,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
 2025-11-15 20:37:43,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
 2025-11-15 20:38:53,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-16 08:46:06,Gas Sensor,Gas Alert: GAS_ALERT: Toxic gases detected
