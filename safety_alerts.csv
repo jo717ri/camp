@@ -59,3 +59,4 @@ Time,Sensor,Message
 2025-11-18 16:03:28,Temperature,Temperature Alert: TEMP_ALERT: Temp=28.10
 2025-11-18 16:05:26,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
 2025-11-18 16:05:59,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
+2025-11-18 17:09:39,Ultrasonic,Obstacle Alert: OBSTACLE_ALERT: Object too close
